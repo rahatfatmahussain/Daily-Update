@@ -23,13 +23,13 @@ Daily Update
 
 ---------05/05/2026-------------
 
-# Learn Linux:-
+# Learned Linux:-
 
 * linux
 * linux uses
 * linux types(distos)
 * Linux CLI 
 
-# Learn React:-
+# Learned React:-
 
 * React Basic Questions
