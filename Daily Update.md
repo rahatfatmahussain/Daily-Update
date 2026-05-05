@@ -20,3 +20,16 @@ Daily Update
 * Undoing Changes
 * Fork 
 * GitHub (Desktop)
+
+---------05/05/2026-------------
+
+# Learn Linux:-
+
+* linux
+* linux uses
+* linux types(distos)
+* Linux CLI 
+
+# Learn React:-
+
+* React Basic Questions
